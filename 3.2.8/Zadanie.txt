@@ -1,0 +1,4 @@
+Napisz funkcję otrzymującą dwa argumenty referencję a
+oraz wskaźnik b do zmiennych typu int, która zamienia ze 
+sobą wartości zmiennych, do których wskaźnik i referencję 
+dostała w argumentach.

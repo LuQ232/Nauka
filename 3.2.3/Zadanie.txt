@@ -1,0 +1,3 @@
+Napisz funkcję otrzymującą jako argumenty wskaźniki do dwóch
+zmiennych typu int, która zamienia ze sobą wartości wskazywanych
+zmiennych.

@@ -1,0 +1,3 @@
+Napisz bezargumentową funkcję, która rezerwuje pamięć
+dla pojedynczej zmiennej typu int i zwraca jako wartość wskaźnik
+do niej.

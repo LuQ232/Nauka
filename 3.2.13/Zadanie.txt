@@ -1,0 +1,6 @@
+Napisz funkcję o dwóch argumentach:
+— wskaźnik na funkcję o jednym argumencie typu int zwracającą
+wartość typu double,
+— wartość typu int,
+która zwraca wartość funkcji otrzymanej w pierwszym argumencie na
+liczbie całkowitej podanej w drugim argumencie.

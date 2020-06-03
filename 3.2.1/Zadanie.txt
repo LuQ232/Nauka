@@ -1,0 +1,2 @@
+Napisz funkcję otrzymującą jako argumenty wskaźniki do dwóch
+zmiennych typu int, która zwraca jako wartość mniejszą z liczb wskazywanych przez argumenty.

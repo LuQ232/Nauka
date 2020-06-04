@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/list.h
+iostream
+-
+person.h
+../inc/person.h
+
+../inc/person.h
+iostream
+-
+
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/list.cpp
+list.h
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/list.h
+
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/main.cpp
+iostream
+-
+person.h
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/person.h
+list.h
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/list.h
+
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/person.cpp
+person.h
+/mnt/c/Users/48503/Desktop/cpp/SPOJ/Wskaźniki/Linked list/src/person.h
+

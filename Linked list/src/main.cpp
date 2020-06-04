@@ -15,11 +15,6 @@ void menu()
 int main()
 {
 	List list;
-list.add_new_person("Pawel","Bednarek",31);
-
-list.add_new_person("Piotr","Bednarek",21);
-list.add_new_person("Mariola","Rudecka",37);
-list.add_new_person("Natalia","Wlazlak",20);
 	int choice = 0;
 	while(choice != 8)
 	{

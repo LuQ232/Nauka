@@ -1,0 +1,4 @@
+Napisz funkcję, która dostaje dwa argumenty: wskaźnik na stałą
+typu int i stały wskaźnik na zmienną typu int. I przepisuje zawartość
+stałej wskazywanej przez pierwszy argument do zmiennej wskazywanej
+przez drugi argument.
